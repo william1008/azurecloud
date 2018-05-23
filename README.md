@@ -1,1 +1,1 @@
-# azurecloud, build up for azure IaaS design
+# azurecloud, build up for azure IaaS design, management automation.
